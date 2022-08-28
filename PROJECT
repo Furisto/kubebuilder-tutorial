@@ -1,0 +1,6 @@
+domain: gitpod.io
+layout:
+- go.kubebuilder.io/v3
+projectName: kubebuilder-tutorial
+repo: github.com/furisto/kubebuilder-tutorial
+version: "3"
